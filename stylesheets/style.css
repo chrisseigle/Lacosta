@@ -397,6 +397,9 @@ input[type="color"],
 
 /* Mobile navigation
 ---------------------------------------- */
+.separator {
+	height: 40px; /* Altura de la separación */
+}
 .logo-mobi {
 	display: none;
     position: absolute;
